@@ -1,0 +1,29 @@
+{
+    "oldValue": { 
+        "something":"something"
+    },
+    "updateMask": { 
+        "something":"something"
+    },
+    "value": 
+        {"createTime": "2020-05-25T13:39:57.764063Z", 
+		"fields": {"Timestamps": {"mapValue": {"fields": 
+		{"GCP_client_fin": {"doubleValue": 1590413997.0194194}, 
+		"GCP_client_start": {"doubleValue": 1590413994.6591713}, 
+		"GCP_msg_send": {"doubleValue": 1590413998.1368978}, 
+		"exe_start": {"doubleValue": 1590413994.6581707}, 
+		"firestore_cf_msg_receive": {"doubleValue": 1590413997.4063778}}}}, 
+		"battery": {"stringValue": "8.00871"}, 
+		"date": {"stringValue": "2020-05-19 07:01:00.582342"}, 
+		"grena_target": {"stringValue": "target"}, 
+		"helio_id": {"stringValue": "13.1"}, 
+		"id": {"stringValue": "1"}, 
+		"motor1": {"stringValue": "292.0"}, 
+		"motor2": {"stringValue": "213.0"}, 
+		"status": {"stringValue": "running"}}, 
+		"name": "projects/test-project-254608/databases/(default)/documents/helio_field/heliostat13.1/telemetry/1", 
+		"updateTime": "2020-05-25T13:39:57.764063Z"}
+}
+
+
+
